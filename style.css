@@ -1,8 +1,11 @@
 body{
     height: 95vh;
-    width: 95;
+    width: 95%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    color: rgba(3, 3, 95, 0.753);
+    background-color: lightgray;
 }
+
